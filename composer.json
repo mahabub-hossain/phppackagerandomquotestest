@@ -1,0 +1,18 @@
+{
+    "name": "mahabub-mollah/phppackagerandomquotestest",
+    "description": "this package provide random quotes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mahabub-hossain",
+            "email": "mahbubsprint310@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RandomQuotes\\": "src/"
+        }
+    },
+    "require": {}
+}
